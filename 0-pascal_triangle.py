@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-'''Generates Pascal's Triangle up to the nth row.
+'''A module for working with Pascal's triangle.
 '''
 
 
 def pascal_triangle(n):
-    ''' - The function returns an empty list if n <= 0 or if n is not an integer.
-    - The output is a list of lists, where each inner list represents a row of Pascal's Triangle.
+    '''Creates a list of lists of integers representing
+    the Pascal's triangle of a given integer.
     '''
     triangle = []
     if type(n) is not int or n <= 0:

@@ -1,6 +1,4 @@
-Here's a `README.md` file based on the provided instructions:
 
-```markdown
 # Lockboxes
 
 ## Overview
@@ -106,4 +104,3 @@ print(canUnlockAll(boxes))  # False
 - **GitHub repository**: `alx-interview`
 - **Directory**: `0x01-lockboxes`
 - **File**: `0-lockboxes.py`
-```
